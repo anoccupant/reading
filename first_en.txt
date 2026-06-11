@@ -1,0 +1,50 @@
+﻿Planck and Bohm the Men Whose Fate Is “Uncomputed”
+—— Part 1: The Restoration of Reality ——
+
+Characters:
+• The Objective Observer (Salviati): One who possesses deep insights into Digital Signal Theory and the discrete universe.
+• The Existing Intellect (Simplicio): A staunch believer in the Copenhagen interpretation and Quantum Field Theory.
+• The Seeker (Sagredo): One who harbors doubts about the "convoluted expressions" of modern physics.
+
+Act I: The Cumbersomeness of Observation and the Absence of Reality
+Sagredo: Modern physics tells us that "a state is not determined until it is observed." But they do not mean this as a mere confession of human ignorance—a simple "we do not know." They claim that reality "truly does not exist" until that moment. I find this expression intolerably unnatural.
+Simplicio: That is because your intuition is shackled to the macroscopic world. If you look at the violation of Bell’s inequality or the double-slit experiment, you will see that "reality"—the idea that a particle possesses a specific state in advance—is mathematically negated.
+Salviati: Wait. Is it not possible that existing physics was forced to negate "reality" simply because they insisted on describing the universe as a "continuum" (analog)? If we assume the world is a "discrete" (digital) system with Planck’s constant $h$ as its minimum unit, that dissonance vanishes.
+
+Act II: The Scalpel of Digital Signal Theory
+Salviati: In Digital Signal Theory, if the sampling rate (resolution) is insufficient, a phenomenon known as "Aliasing" occurs. This is not a loss of information; rather, it is a phenomenon where waves of different frequencies overlap as mathematically "indistinguishable" identical waveforms.
+Sagredo: So, you are saying that what we call "quanta" are nothing more than "aliases" (mirror images) projected onto the sampling grid of $h$ from a higher-dimensional reality?
+Salviati: Precisely. Every particle possesses its own system clock, synchronized at the moment of the universe's creation, and an autonomous computational algorithm. Regardless of whether they are observed, they autonomously compute and determine their states, moment by moment, according to their own internal clocks.
+
+Act III: The Uncomputed and the New "Principle of Reality"
+Sagredo: But then, why does it appear as if states are "superposed" before observation?
+Salviati: It is not that the state is "undecided," but simply that it is "Uncomputed"—it has not yet reached the scheduled time for its next computational step. The universe does not perform work only when observed. Even when no one is watching, particles produce results autonomously on their own timing.
+Simplicio: But how do you explain the facts of "Bose statistics," where particles are indistinguishable even when swapped, or "Fermi statistics," where a single point cannot be shared?
+Salviati: Those are the "New Principles of Reality" defined by a digital system. To "exist" is nothing more than to "occupy" a specific address on the grid. It is self-evident that Fermions cannot overlap—it is a fundamental principle of address allocation. Bose statistics, on the other hand, is merely the mathematical necessity of multiple signals (waves) being "linearly combined" on the same grid due to the constraints of the sampling rate.
+
+Act IV: The New Horizon of Physics
+Sagredo: Then non-local correlation is also just "independent simultaneous execution via a shared clock," requiring no superluminal propagation of information.
+Salviati: Exactly. From this perspective, physics is liberated from the "labyrinth of interpretation" and evolves into a consistent, robust realism.
+Simplicio: Ultimately, your words are mere hollow theories. Mere gibberish without a single equation.
+Salviati: I do not mind. Truth does not exist to be recognized by someone; it simply "is."
+Sagredo: But tell me one thing. This concept of the "Field" in physics, which you all now revere above all else... Who was the first to find and proclaim it?
+Simplicio: That would be... What of it?
+Sagredo: A man who could not write a single line of equations glimpsed the truth of the world through intuition alone. Surely, the authorities who inherit that heritage today would not mock the "origin of the Field" now, would they?
+Salviati: Let it be. In the history books of the future—after the computation is complete—it is already probabilistically certain that the following will be written:
+
+[Copenhagen Interpretation] (noun)
+The dominant school of thought in 20th-century physics. A philosophy that traded the bedrock of reality for the illusion of approaching truth. Following the restoration of the Bohmian interpretation, it came to be understood not as physics, but as a mere rhetorical device for pragmatic (instrumental) ends.
+
+(Curtain Falls)
+
+Notes:
+1. Aliasing: Bose statistics is a mathematical consequence of information redundancy caused by discrete sampling.
+2. System Clock: Non-locality is a phenomenon born from the independent execution of processes synchronized by a shared clock.
+3. Uncomputed: Superposition is a standby state that has not yet reached its autonomous computation time.
+4. Principle of Reality: The self-evident definition that "Reality is the occupation of an address," encompassing even Fermi statistics.
+
+Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
+Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 
+本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。
+Unauthorized reproduction, modification, or distribution of this work, 
+in whole or in part, is strictly prohibited.
