@@ -1,0 +1,39 @@
+﻿Planck and Bohm the Men Whose Fate Is “Uncomputed”
+―― Part 3: The Reactionless Propagation ――
+
+Characters:
+• The Objective Observer (Salviati): One who possesses deep insights into Digital Signal Theory and the discrete universe.
+• The Existing Intellect (Simplicio): One who reveres Quantum Mechanics as a "sublime truth."
+• The Seeker (Sagredo): One who seeks to unravel the universe's specifications through simple logic.
+
+
+Act I: The Towering Principle of the Invariance of Light Speed
+Simplicio: (Visibly unconvinced) …What is this "Universal System Clock" anyway? You are merely delegating inconvenient truths to the existence of God. Do you call that science? The propagation of information takes finite time; it cannot exceed the speed of light.
+
+Act II: Propagation That Is Not Propagation
+Sagredo: (Calmly) Simplicio, you seem to be mistaking the clock for a "signal propagating at the speed of light." It is not. When the system known as the Digital Matrix computes an entire index—a shared memory called "the same moment"—the concept of "propagation" does not intervene.
+Salviati: Exactly. The viscoelasticity of the field (the interaction of four-dimensional space-time described by the curl operator) dictates the speed of light. That is the speed at which the "result" travels through the Digital Matrix—our stage—after computation. That is "propagation." But the delivery of the Universal System Clock is not propagation.
+
+Act III: The New Doctrine
+Simplicio: What on earth are you talking about?
+Salviati: Information propagation in a field is due to the viscoelastic nature of the medium of space-time. This involves forcing the same displacement upon a neighboring medium. However, in exchange, one receives a reaction. The fact that information has reached the correspondent changes one's own future. This "existence of reaction" is the very definition of propagation.
+Simplicio: ……
+Salviati: But the Universal System Clock is different. There is no medium. There are no neighbors. Therefore, there is no reaction. This absence of reaction at the signal source is the fundamental difference from field propagation. This is not propagation, but "Conducting." Or perhaps "Harmony." No God is required. It is simply a matter of whether or not one can accept this utterly simple, self-evident system. Even if you cannot, it will likely be common sense to the youth a hundred years from now. Probabilistically speaking, of course.
+
+Act IV: The Degraded Copy
+Sagredo: Ultimately, our own computing devices are but diminished copies of the language used by the Architect of the universe. But the existence of a copy implies an original—one difficult to imagine for us, who only know degraded devices. Within that original, even if there exists a Universal System Clock unknown to our machines—where the propagation speed of electromagnetic waves governs the clock—it may not be so radical an idea after all.
+(Curtain Falls)
+
+
+
+Notes:
+1. Reactionless "Conducting": Information always propagates at a finite speed while being subject to a reaction. Since the system clock is not subject to a reaction, it is not "information." Therefore, it does not possess the concept of propagation speed. It simply transitions (computes) the state of the entire system in an instant (discrete time $h$).
+
+
+
+
+Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
+Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 
+本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。
+Unauthorized reproduction, modification, or distribution of this work, 
+in whole or in part, is strictly prohibited.

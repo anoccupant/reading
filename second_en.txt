@@ -1,0 +1,43 @@
+﻿Planck and Bohm the Men Whose Fate Is “Uncomputed”
+―― Part 2: Space-Time as a Specification ――
+
+Characters:
+• The Objective Observer (Salviati): One who possesses deep insights into Digital Signal Theory and the discrete universe.
+• The Existing Intellect (Simplicio): One who reveres Quantum Mechanics as a "sublime truth."
+• The Seeker (Sagredo): One who seeks to unravel the universe's specifications through simple logic.
+
+
+Act I: Return to Simple Principles
+Sagredo: Simplicio, I have been thinking constantly since our last discussion. Why has quantum mechanics required such convoluted interpretations? If the universe is a "digital system," I believe its mysteries can be deduced from extremely simple principles.
+Simplicio: Simple? How do you intend to speak simply of Bell’s inequality or non-locality?
+Salviati: No, Sagredo is right. Existing physics is difficult only because it clings to the false premise of the "continuum." By simply accepting space as a "Digital Matrix," the concepts we once lazily lumped together as "four-dimensional space-time" will be redefined as self-evident consequences.
+
+Act II: Discrete Space-Time and the System Clock
+Sagredo: Exactly. The moment we admit space is made of pixels, time is also required to be discrete. For a pixel to transition its state—to compute—the "time to update the state" is indispensable. This means we can even redefine "Time as Computation."
+Simplicio: ……
+Salviati: Precisely. The minimum resolution of time is the true identity of Planck’s constant $h$, and the force that advances those frames is nothing other than the Universal System Clock.
+Simplicio: …Are you saying that a physical entity for space-time is not necessarily required? That space-time is nothing more than Imaging Data captured at a frame rate of $h$?
+
+Act III: The Digital Matrix as a Stage
+Salviati: Simplicio, you once said that "smooth waves" are the ultimate truth. Certainly, to obtain a beautiful digital image, a Low-Pass Filter (LPF) is required before discretization. But the universe is not a camera. It is not capturing or copying an external world. The universe is merely "recording" its own computational results into its own four-dimensional memory. No LPF is needed there.
+
+Act IV: LPF Glasses and the Falsification of Reality
+Simplicio: (Looking suspicious) …Even if that were so, without an LPF, wouldn't the world be an image full of aliases (noise)? A mere phantom?
+Sagredo: That is it. That image containing the aliases was, in fact, the true form of the universe before it was falsified. You thought you were seeing the real world through the LPF, but the truth was the exact opposite.
+(Curtain Falls)
+
+
+Notes:
+1. Time as Computation: The moment space is recognized as a Digital Matrix (discrete space), "discrete time $h$" is required as a step to update states. Space-time ceases to need the concept of a "physical entity" and is integrated into the "System Specifications."
+2. Imaging Data: A collection of still images completely separated at every interval of time $h$. The output of the universal system.
+3. LPF (Low-Pass Filter): While optical LPFs are physically placed in front of digital camera sensors, in the context of the universe's self-recording, "smoothness" is actually a falsification of information. Realizing that one might be wearing these "glasses" is the key to progress.
+4. Self-Recording: The Digital Matrix system saves its own status into the system as data that can be referenced by the index of time. It is the Architect's collection.
+
+
+
+
+Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
+Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 
+本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。
+Unauthorized reproduction, modification, or distribution of this work, 
+in whole or in part, is strictly prohibited.
