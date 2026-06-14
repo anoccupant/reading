@@ -42,7 +42,7 @@ Notes:
 2. System Clock: Non-locality is a phenomenon born from the independent execution of processes synchronized by a shared clock.
 3. Uncomputed: Superposition is a standby state that has not yet reached its autonomous computation time.
 4. Principle of Reality: The self-evident definition that "Reality is the occupation of an address," encompassing even Fermi statistics.
-
+初出公開日：2026年6月11日（JST）
 Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
 Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 
 本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。

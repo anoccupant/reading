@@ -1,0 +1,42 @@
+﻿Planck and Bohm the Men Whose Fate Is “Uncomputed”
+――Part 6: The Ultimate Reality――
+
+Characters:
+• The Objective Observer (Salviati): One who possesses deep insights into Digital Signal Theory and the discrete universe.
+• The Existing Intellect (Simplicio): One who reveres Quantum Mechanics as a "sublime truth."
+• The Seeker (Sagredo): One who seeks to unravel the universe's specifications through simple logic.
+
+
+Act I: The Formidable Complex Number
+Sagredo: By the way, we spoke earlier of complex numbers—how the phase information they allow us to express is the very foundation of quantum mechanics. But that isn't the only information a complex number holds. A complex number, by its very nature, possesses information regarding its "direction of rotation." I have realized that this information is what divides reality itself.
+
+Act II: Our Universe
+Simplicio: Direction of rotation? What could that possibly mean in a physical sense?
+Sagredo: In our world, the curl operator signifies a right-handed rotation. This can be rephrased as our world having the property of being represented by complex basis functions with a right-handed rotational direction—that is, positive frequency components.
+
+Act III: The Alias of Our Universe
+Simplicio: Then what of a world represented by complex basis functions with negative frequency components?
+Sagredo: That would be a world requiring a left-handed curl operator. There, time would flow backward, and electrons would be subject to an opposite Lorentz force. What exists there is antimatter. The true nature of what physicists feared as "time flowing backward" is simply this negative rotational component.
+Simplicio: ……
+Salviati: Correct. Our physical laws adopt the "right-hand rule" simply because our universe selected right-handed rotation as its fundamental operation. Since mathematics permits both right-handed and left-handed rotation, the Architect’s computing engine outputs both as "reality."
+
+Act IV: The Ultimate Truth
+Sagredo: The ultimate truth revealed in this New Dialogue is the universal specification that "whatever exists mathematically, exists in reality." One might even call it the specification of the Architect's computing engine.
+Sagredo: Precisely. The entire stage was a Four-Dimensional Digital Matrix Memory Space where computation and self-recording are repeated. And "computation" was the transition of phase information—it was "time" itself. The universe was not playing dice. What we perceived as "probability" was merely the "quantization error" that inevitably occurs when outputting computational results onto a digital matrix with a lattice size of $h$.
+
+(Curtain Falls)
+
+
+
+
+Notes:
+1. Alias: In the direction of rotation, there is no "real" or "fake." An "alias" is nothing more than a product of the ego's subjectivity claiming itself as the original. Aliases are twins—mathematically, they are N-tuplets. Here, one should recall the specification: "Whatever exists mathematically, exists in reality."
+2. Four-Dimensional Digital Matrix Memory Space: The original computing engine of the Architect is different from our own degraded devices. It requires neither registers nor data buses. Within the main memory space, all computation and self-recording are repeated.
+
+
+初出公開日：2026年6月14日（JST）
+Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
+Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 
+本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。
+Unauthorized reproduction, modification, or distribution of this work, 
+in whole or in part, is strictly prohibited.

@@ -1,0 +1,34 @@
+﻿Planck and Bohm the Men Whose Fate Is “Uncomputed”
+―― Part 4: The Three Sacred Treasures ――
+
+Characters:
+• The Objective Observer (Salviati): One who possesses deep insights into Digital Signal Theory and the discrete universe.
+• The Existing Intellect (Simplicio): One who reveres Quantum Mechanics as a "sublime truth."
+• The Seeker (Sagredo): One who seeks to unravel the universe's specifications through simple logic.
+
+
+Act I: The Superordinate Concept of Real Numbers
+Sagredo: Quantum mechanics, represented by the Schrödinger equation, is naturally a superordinate concept to Newtonian mechanics—including even Special Relativity. And the decisive difference lies in the fact that while Newtonian mechanics is a mechanics of real numbers, quantum mechanics is a mechanics of complex numbers.
+
+Act II: Tonomura’s Great Experiment
+Simplicio: So, it comes down to whether or not one possesses the concept of "phase information," which cannot be described by real numbers alone.
+Salviati: Precisely. This phase information is the fundamental concept that forms the core of quantum mechanics. The definitive proof of this is the verification experiment of the Aharonov-Bohm (AB) effect conducted by Akira Tonomura.
+Simplicio: He confirmed that in a region where no magnetic field ($B$) exists, the vector potential ($A$) exerts an influence on the phase information of the electron’s matter wave. That was a monumental experiment that established $A$ not as a fictional product of mathematical technique, but as something "real and more fundamental."
+
+Act III: The Three Sacred Treasures
+Salviati: Correct. However, the fact that $A$ is fundamental and real is something Maxwell had predicted from the beginning. For us today, having already assimilated Tonomura’s experimental results, the greatest value of this experiment lies in accessing a concept that does not emerge from Maxwell’s electromagnetism—namely, the "phase information of the electron"—and visualizing the "digital transition" of that phase.
+Sagredo: A "toroidal magnet," a "superconductor," and a "coherent electron gun." So, with these Three Sacred Treasures, the moment of phase computation was finally brought to light?
+
+Act IV: A Natural Conclusion
+Salviati: Exactly. In classical mechanics, $E$ and $B$—the sources of "force" (the absolute value of complex numbers)—are the protagonists. But the moment we enter the realm of quantum mechanics, $A$ takes the leading role. And it should; for $A$ was the only thing capable of influencing the phase.
+
+(Curtain Falls)
+
+
+
+初出公開日：2026年6月14日（JST）
+Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
+Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 
+本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。
+Unauthorized reproduction, modification, or distribution of this work, 
+in whole or in part, is strictly prohibited.

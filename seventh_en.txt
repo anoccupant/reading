@@ -1,0 +1,53 @@
+﻿Planck and Bohm the Men Whose Fate Is “Uncomputed”
+――Part 7 (Conclusion): The Truth Once Resolved――
+
+Characters:
+• The Objective Observer (Salviati): One who possesses deep insights into Digital Signal Theory and the discrete universe.
+• The Existing Intellect (Simplicio): One who reveres Quantum Mechanics as a "sublime truth."
+• The Seeker (Sagredo): One who seeks to unravel the universe's specifications through simple logic.
+
+
+Act I: An Unacceptable Doctrine
+Sagredo: The pieces have finally come together. The transitions of phase revealed by the "Three Sacred Treasures." The Universal System Clock of infinite speed, manifested through the specifications of an inertia-less medium. And the universal specification predicted by complex numbers: "Whatever exists mathematically, exists in reality." Everything is a stage played out upon a four-dimensional digital matrix memory, discretized by Planck’s constant $h$.
+Simplicio: I see... It appears that digital signal theory was not merely a convenient tool for sweeping away convoluted interpretations. I will grant you that. However, the "Universal System Clock" remains a creed difficult for me to believe. Perhaps the Copenhagen interpretation was enough for me after all.
+
+Act II: What is a System Clock?
+Salviati: Very well. Then, let me show you the ultimate truth at last.
+Simplicio: ……
+Sagredo: ……
+Salviati: What is a system clock?
+Sagredo: It is a "continuous sequence of square waves" that continues infinitely at a fixed period.
+Salviati: Is that a pulse?
+Sagredo: …… No, one wouldn't call it a pulse. Because identical shapes arrive one after another. A pulse is formed by a wave packet. A pulse possesses position information and has spectral spread. This is the Uncertainty Principle itself, and it can be explained by the same logic as the frequency bandwidth of an impulse in digital signal theory.
+Salviati: In other words, a pulse is a wave packet; it possesses energy and information, and it propagates them. At a finite speed.
+Simplicio: That is obvious. Are we only now discussing such basic things?
+
+Act III: The Waves That Exist from the Beginning (What is "Beginning"?)
+Salviati: Then, I ask you once more. What is a system clock?
+Sagredo: It does not form wave packets; identical waveforms arrive continuously. It is a phenomenon where what comes next is completely predictable. Though it is "stepped" in shape, it is essentially no different from a monochromatic spectral wave—a sine wave.
+Salviati: Correct. It possesses phase velocity and rise timing, but nothing more. After all, it is a monochromatic spectrum with zero bandwidth, incapable of holding position information.
+Sagredo: ……! I see!
+Sagredo: A monochromatic spectral wave has a completely indeterminate position. In other words, it is spread infinitely across the universe—even before it propagates.
+Salviati: Exactly. Does a periodic clock that already extends infinitely require propagation now? No! The particles of the universe do not even distinguish between individual clock cycles; they simply transition their states collectively when the rising edge arrives. That is all. Neither energy nor its propagation is required. This realizes a Universal System Clock of infinite speed without a single contradiction to existing physical laws. Its form does not even hold the shape of a wave—the sequence of square waves—it is nothing but a 0th-order vibration of a standing-wave universe where the entire universe synchronizes at once.
+
+Act IV: Fate is Uncomputed even in Death
+Sagredo: Beautiful. This is the truth. As I thought, the truth was beautiful.
+Simplicio: …… How could this be? What have I been searching for all this time?
+Sagredo: Do not lose heart, Simplicio. Our future is still Uncomputed. Surely, a better future awaits us.
+
+(Curtain Falls)
+
+
+
+
+Notes:
+1. Distinguish: By definition, a system clock means there is no difference between individual clock cycles.
+2. Propagation: More accurately, one could say it needs to propagate for a distance corresponding to the discrete time $h$, but ultimately, since it is a 0th-order vibration with an infinitely extended wavelength, it is merely a matter of waiting for the passage of the discrete time $h$.
+
+
+初出公開日：2026年6月14日（JST）
+Author: ある一人のアドレス占有者 (An_Occupant_of_an_Address)
+Copyright (c) 2026 ある一人のアドレス占有者 (An_Occupant_of_an_Address). All rights reserved. 
+本作の一部または全部の改変・複製・再利用・再配布の一切を禁止します。
+Unauthorized reproduction, modification, or distribution of this work, 
+in whole or in part, is strictly prohibited.
